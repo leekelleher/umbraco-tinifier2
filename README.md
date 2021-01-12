@@ -44,6 +44,13 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
 
+### Credits
+
+The package logo uses the following icon from the [Noun Project](https://thenounproject.com), licensed under [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/):
+
+- [Happy Panda](https://thenounproject.com/aomam/collection/panda-emoticons-line/?i=1740219) by [AomAm](https://thenounproject.com/aomam/)
+
+
 [bd]: http://backend-devs.com/
 [tp]: https://tinypng.com
 [qs]: https://our.umbraco.org/FileDownload?id=17908
